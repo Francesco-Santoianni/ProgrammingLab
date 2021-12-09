@@ -1,4 +1,5 @@
 class CSVFILE:
+    
     def __init__(shampoo_sales, name):
         shampoo_sales.name = name
 
