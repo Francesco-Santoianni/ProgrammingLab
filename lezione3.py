@@ -16,4 +16,4 @@ def sum_list(list):
         sum += item
     print(sum)
 
-sum_list(values)
+sum_list(values) 
